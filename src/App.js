@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-  <h1>hola</h1>
+  <h1>hola Bienvenido a la Plataforma De Atlanix</h1>
   );
 }
 
